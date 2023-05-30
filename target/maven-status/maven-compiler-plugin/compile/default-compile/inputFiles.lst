@@ -1,0 +1,13 @@
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\entities\Factura.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\entities\Region.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\services\IClienteService.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\entities\ItemFactura.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\dao\IFacturaDao.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\dao\IProductoDao.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\dao\IClienteDao.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\controllers\FacturaRestController.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\entities\Cliente.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\ApiInvoiceUtsApplication.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\controllers\ClienteResController.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\services\ClienteServiceImpl.java
+D:\DIEGO\UTS\2023-1\Web Service\Segundo corte\Proyectos\api-invoice-uts\src\main\java\com\api\invoice\uts\models\entities\Producto.java
